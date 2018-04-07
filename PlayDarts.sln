@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayDarts", "PlayDarts.csproj", "{2B98C90D-3639-4BDE-846B-7E236CE7F8A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayDartsTests", "..\PlayDartsTests\PlayDartsTests.csproj", "{9B4589F9-CD17-45A1-9C76-2714C4DB5DBB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayDartsTests", "PlayDartsTests\PlayDartsTests.csproj", "{9B4589F9-CD17-45A1-9C76-2714C4DB5DBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
